@@ -24,3 +24,8 @@ The training dataset consist of 1341 images of healthy lungs and 3875 images of 
 You can find more information about dataset at the link</br>
 The data source: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 </p>
+
+<p>
+3. Images preparation </br>
+Images where loaded as RGB images to duplicate gray-scale on each rgb layer. To make model quality better there has been used image augmentation while loading training data - the images where randomly changed by sheering,zooming or changing brigtness. The images where also rescaled to 200x200 resolution. The test data where not augmented, only rescaled. 
+</p>
