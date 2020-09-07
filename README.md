@@ -11,5 +11,10 @@ Table of contents
 
 <p>
 Abstract</br>
-The goal of the project is to build model to predict weather the lungs are healthy or not. I decided to use transfer learning from popular models trained on big datasets and choose the one, which is best in classification chest x-rays.
+The goal of the project is to build model to predict weather the lungs are healthy or not. I decided to use transfer learning from popular models trained on big datasets and choose the one, which is best in classification chest x-rays. The x-rays are in gray scale, therefore I duplicated data to three layers to make it possible to use models trained on RGB images.
+</p>
+
+<p>
+Dataset</br>
+The goal of the project is to build model to predict weather the lungs are healthy or not. I decided to use transfer learning from popular models trained on big datasets and choose the one, which is best in classification chest x-rays. The x-rays are in gray scale, therefore I duplicated data to three layers to make it possible to use models trained on RGB images.
 </p>
