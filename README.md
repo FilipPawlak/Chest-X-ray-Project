@@ -50,10 +50,11 @@ Models where trained by monitoring val_loss. Initial number of epoch where high 
 
 <p>
 6. Comparision between models</br>
-Different models used for transfer learing were compared basing on val_accuracy and val_loss in table.
+Different models used for transfer learing were compared basing on val_accuracy and val_loss in table.</br>
+Table with comparison of different models
 </p>
 
 <p>
 7. Summary</br>
-Table with comparison of different models
+(Assesing of final results)
 </p>
