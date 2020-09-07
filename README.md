@@ -5,8 +5,7 @@ Table of contents
 4. Models used for transfer learning
 5. Model training
 6. Comparision between models
-7. Making predictions on new images
-8. Summary
+7. Summary
 </br>
 
 <p>
@@ -51,5 +50,10 @@ Models where trained by monitoring val_loss. Initial number of epoch where high 
 
 <p>
 6. Comparision between models</br>
+Different models used for transfer learing were compared basing on val_accuracy and val_loss in table.
+</p>
 
+<p>
+7. Summary</br>
+Table with comparison of different models
 </p>
