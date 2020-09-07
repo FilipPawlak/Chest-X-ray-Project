@@ -29,3 +29,14 @@ The data source: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 3. Images preparation </br>
 Images where loaded as RGB images to duplicate gray-scale on each rgb layer. To make model quality better there has been used image augmentation while loading training data - the images where randomly changed by sheering,zooming or changing brigtness. The images where also rescaled to 200x200 resolution. The test data where not augmented, only rescaled. 
 </p>
+
+
+<p>
+4. Models used for transfer learning
+Five models where choosen for this project:
+  * VGG16
+  * VGG19
+  * InceptionV3
+  * Xception
+  * ResNet50
+</p>
