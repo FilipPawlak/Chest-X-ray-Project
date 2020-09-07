@@ -39,4 +39,9 @@ Five models where choosen for this project:
   * InceptionV3
   * Xception
   * ResNet50
+ <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
 </p>
