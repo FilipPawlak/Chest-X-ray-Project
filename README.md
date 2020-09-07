@@ -1,5 +1,3 @@
-W tym projekcie wykorzystałem transfer learning popuarnych sieci neuornowych wytrenowanych na dużych zbiorach obrazów, aby zbudować model służący do klasyfikacji rentgenu płuc i klasyfikacji obrazów na płuce zdrowe i płuca chore.
-
 Table of contents
 1. Abstract
 2. Dataset
@@ -10,3 +8,6 @@ Table of contents
 7. Making predictions on new images
 8. Summary
 
+1. Abstract
+
+The goal of the project is to build model to predict weather the lungs are healthy or not. I decided to use transfer learning from popular models trained on big datasets and choose the one, which is best in classification chest x-rays.
