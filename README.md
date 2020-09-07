@@ -41,4 +41,15 @@ Five models where choosen for this project:
   <li>Xception</li>
   <li>ResNet50</li>
   </ul>
+  Initial weight where loaded from models and then frozen. There were added few layers on top which were trainable and were perforing final classification.
+</p>
+
+<p>
+5. Model training </br>
+Models where trained by monitoring val_loss. Initial number of epoch where high to stop the model by EarlyStopping - only when there is no significant improvement betweeen epochs. Best weights were saved.
+</p>
+
+<p>
+6. Comparision between models</br>
+
 </p>
