@@ -34,14 +34,11 @@ Images where loaded as RGB images to duplicate gray-scale on each rgb layer. To 
 <p>
 4. Models used for transfer learning
 Five models where choosen for this project:
-  * VGG16
-  * VGG19
-  * InceptionV3
-  * Xception
-  * ResNet50
- <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
+  <ul>
+  <li>VGG16</li>
+  <li>VGG19</li>
+  <li>InceptionV3</li>
+  <li>Xception</li>
+  <li>ResNet50</li>
+  </ul>
 </p>
