@@ -7,7 +7,7 @@ Table of contents
 6. Comparision between models
 7. Making predictions on new images
 8. Summary
-
+</br>
 
 <p>
 Abstract</br>
