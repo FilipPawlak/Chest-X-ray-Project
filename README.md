@@ -56,5 +56,5 @@ Table with comparison of different models
 
 <p>
 7. Summary</br>
-(Assesing of final results)
+(Assesing of best solution)
 </p>
