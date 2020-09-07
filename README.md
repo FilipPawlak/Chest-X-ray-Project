@@ -16,11 +16,11 @@ The goal of the project is to build model to predict weather the lungs are healt
 
 <p>
 2. Dataset</br>
-Dataset consist of train, test and validation data. Each set is divided into two classes: 
-"Normal" - healthy lungs
-"Pneumonia" - unhealthy lungs
+Dataset consist of train, test and validation data. Each set is divided into two classes: </br>
+"Normal" - healthy lungs</br>
+"Pneumonia" - unhealthy lungs</br>
 The training dataset consist of 1341 images of healthy lungs and 3875 images of unhealthy ones.
 
-You can find more information about dataset at the link
+You can find more information about dataset at the link</br>
 The data source: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 </p>
