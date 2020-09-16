@@ -51,7 +51,37 @@ Models where trained by monitoring val_loss. Initial number of epoch where high 
 <p>
 6. Comparision between models</br>
 Different models used for transfer learing were compared basing on val_accuracy and val_loss in table.</br>
-Table with comparison of different models
+ <table style="width:100%">
+  <tr>
+    <th>Model</th>
+    <th>val_loss</th>
+    <th>val_loss</th>
+  </tr>
+  <tr>
+    <td>Xception</td>
+    <td>0.577836</td>
+    <td>0.729167</td>
+  </tr>
+    <tr>
+    <td>ResNet50</td>
+    <td>5.978394</td>
+    <td>0.625</td>
+  </tr>
+      <tr>
+    <td>InceptionV3</td>
+    <td>0.584904</td>
+    <td>0.708333</td>
+  </tr>
+        <tr>
+    <td>VGG19</td>
+    <td>0.300689</td>
+    <td>0.895833</td>
+  </tr>
+      <td>VGG16</td>
+    <td>0.221851</td>
+    <td>0.913462</td>
+  </tr>
+</table> 
 </p>
 
 <p>
