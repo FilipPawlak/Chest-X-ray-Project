@@ -55,7 +55,7 @@ Different models used for transfer learing were compared basing on val_accuracy 
   <tr>
     <th>Model</th>
     <th>val_loss</th>
-    <th>val_loss</th>
+    <th>val_acc</th>
   </tr>
   <tr>
     <td>Xception</td>
@@ -86,5 +86,5 @@ Different models used for transfer learing were compared basing on val_accuracy 
 
 <p>
 7. Summary</br>
-(Assesing of best solution)
+Basing on val_loss and val_acc best result gave model VGG16
 </p>
